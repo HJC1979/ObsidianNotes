@@ -173,10 +173,11 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "53d4d0081a6197b6",
+  "active": "653804912ad14ff1",
   "lastOpenFiles": [
     "Test 123456.md",
     "_attachments",
