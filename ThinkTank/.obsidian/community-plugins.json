@@ -1,4 +1,7 @@
 [
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "obsidian-hover-editor",
+  "advanced-canvas"
 ]

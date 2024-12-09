@@ -3,5 +3,8 @@
   "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "Helvetica",
   "textFontFamily": "Helvetica",
-  "monospaceFontFamily": "Helvetica"
+  "monospaceFontFamily": "Helvetica",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
